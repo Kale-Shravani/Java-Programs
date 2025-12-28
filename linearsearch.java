@@ -30,6 +30,7 @@ public class linearsearch {
                 }
             }
         }
+        //Code to check if target not found
         if(!found){
             System.out.println("not found..!");
         }
